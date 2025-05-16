@@ -1,4 +1,4 @@
-#Stanley Cup Winner Prediction
+# Stanley Cup Winner Prediction
 
 This project aims to predict Stanley Cup winners using playoff statistics from previous NHL seasons. We use Logistic Regression and Gradient Boosting models to identify which stats most strongly correlate with winning the Cup.
 I know it's ugly. 
